@@ -1,2 +1,7 @@
-# NANALI-RAFAELA-MAY-B.-BSIT-4M
-Repository for my Cloud Computing Activity 1
+# Rafaela May Nanali
+
+## Course and Section
+BSIT - [4M]
+
+## Repository Description
+This repository contains my Activity 1 requirements for the Cloud Computing course, including basic GitHub and Markdown practice.
